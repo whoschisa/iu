@@ -47,7 +47,9 @@ No data outside of the aforementioned cases will be used, nor will data be share
 The bot may store the following information automatically when invited to a new Discord Server:
 
 - `id` with the Server's ID as value.
-- `prefix` with value `+`
+- `prefix` with value `/` (Slash Commands).
+- `user` with the ID of user registered.
+- `owner` with the ID of user owning the specific card. 
 
 No other information outside of the above-mentioned data will be stored.
 
